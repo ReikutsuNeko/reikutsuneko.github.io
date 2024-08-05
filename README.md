@@ -10,7 +10,7 @@
 
 </div>
 
-<h2>Lil Bit Introduction:</h2>
+## Lil Bit Introduction
 ReikutsuNeko here. I have several nicknames like Rei/Ruru (you can call me with whatever comfy). I'm a dev and also an artist. At the moment, to expand my expertise and keep learning stuffs I like, I decided to make a web portfolio. Before I forgot, meet my mascot called Nekogi!! He is the one who actually made this website ~~just kidding orz~~.
 
 <div align="center">
@@ -29,7 +29,7 @@ My plan is to make this project as my portfolio and also as a hub for my other p
 
 <br>
 
-## To Do List:
+## To Do List
 - [x] Make base project
 - [x] Deploy base project
 - [ ] Learn Astro first and foremost
