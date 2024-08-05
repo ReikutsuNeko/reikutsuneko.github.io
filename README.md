@@ -29,7 +29,6 @@ My plan is to make this project as my portfolio and also as a hub for my other p
 
 <br>
 
-```[tasklist]
 ## To Do List:
 - [x] Make base project
 - [x] Deploy base project
@@ -38,15 +37,14 @@ My plan is to make this project as my portfolio and also as a hub for my other p
 - [ ] Start make a WIP page (for now)
 - [ ] Tinkering with TresJS
 - [ ] Actually start making a proper portfolio page
-```
 
-<h3>Some references that I use on my project:</h3>
+### Some references that I use on my project:
 - Astro[^1]
 - Shields.io[^2]
 - Vue.js[^3]
 - TresJS[^4]
 
-<h5>Ref:</h5>
+#### Ref:
 [^1]: https://astro.build/  
 [^2]: https://shields.io/  
 [^3]: https://vuejs.org/  
