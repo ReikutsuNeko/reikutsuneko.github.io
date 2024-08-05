@@ -29,7 +29,8 @@ My plan is to make this project as my portfolio and also as a hub for my other p
 
 <br>
 
-<h2>To Do List:</h2>
+```[tasklist]
+## To Do List:
 - [x] Make base project
 - [x] Deploy base project
 - [ ] Learn Astro first and foremost
@@ -37,6 +38,7 @@ My plan is to make this project as my portfolio and also as a hub for my other p
 - [ ] Start make a WIP page (for now)
 - [ ] Tinkering with TresJS
 - [ ] Actually start making a proper portfolio page
+```
 
 <h3>Some references that I use on my project:</h3>
 - Astro[^1]
