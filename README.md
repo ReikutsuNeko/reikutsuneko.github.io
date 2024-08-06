@@ -27,8 +27,6 @@ My plan is to make this project as my portfolio and also as a hub for my other p
 > [!IMPORTANT]
 > The live website is available at [this link](https://reikutsuneko.github.io/)
 
-<br>
-
 ## To Do List
 - [x] Make base project
 - [x] Deploy base project
