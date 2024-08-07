@@ -32,7 +32,7 @@ My plan is to make this project as my portfolio and also as a hub for my other p
 - [x] Deploy base project
 - [ ] Learn Astro first and foremost
 - [ ] Tinkering with Vue
-- [ ] Start make a WIP page (for now)
+- [x] Start make a WIP page (for now)
 - [ ] Tinkering with TresJS
 - [ ] Actually start making a proper portfolio page
 
