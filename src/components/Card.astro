@@ -1,12 +1,12 @@
 ---
 interface Props {
 	title: string;
-	body: string;
+	// body: string;
 	href: string;
-	img_src: string;
+	// img_src: string;
 }
 
-const { href, title, body, img_src } = Astro.props;
+const { href, title } = Astro.props;
 ---
 
 <li class="link-card">
@@ -15,10 +15,10 @@ const { href, title, body, img_src } = Astro.props;
 			{title}
 		</h2>
 		<div class="justify-content-inside">
-			<img src={img_src} width="200" height="200" alt="">
+			<!-- <img src={img_src} width="200" height="200" alt=""> -->
 		</div>
 		<p class="justify-content-inside">
-			{body}
+			<!-- {body} -->
 		</p>
 	</a>
 </li>
